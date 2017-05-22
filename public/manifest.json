@@ -1,0 +1,34 @@
+{
+    "short_name": "NotesApp",
+    "name": "Lowkeys App for Note Taking",
+    "background_color": "brown",
+    "theme_color": "brown",
+    "display": "standalone",
+    "icons": [{
+            "src": "gigi.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "gigi.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "gigi_512.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "gigi_512.png",
+            "type": "image/png",
+            "sizes": "384*384"
+        },
+        {
+            "src": "gigi_512.png",
+            "type": "image/png",
+            "sizes": "512*512"
+        }
+    ],
+    "start_url": "index.html?launcher=true"
+}
